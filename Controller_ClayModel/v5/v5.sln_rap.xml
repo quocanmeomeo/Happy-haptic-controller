@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<solution>
+	<version>0.1</version>
+	<point_dis>1</point_dis>
+	<haveTexture>0</haveTexture>
+	<projects>
+		<project>
+			<path>Project1.rap_prj</path>
+			<rt>
+				<rot00>1</rot00>
+				<rot01>0</rot01>
+				<rot02>0</rot02>
+				<rot10>0</rot10>
+				<rot11>1</rot11>
+				<rot12>0</rot12>
+				<rot20>0</rot20>
+				<rot21>0</rot21>
+				<rot22>1</rot22>
+				<tran00>0</tran00>
+				<tran01>0</tran01>
+				<tran02>0</tran02>
+			</rt>
+			<groupId>-1</groupId>
+			<dirty>0</dirty>
+		</project>
+	</projects>
+</solution>

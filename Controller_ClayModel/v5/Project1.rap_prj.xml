@@ -1,0 +1,29 @@
+<?xml version="pro 1.0"?>
+<!--
+Copyright 2016 shining 3D-tech Inc.
+
+Unless required by applicable law or agreed to in writing, software distributed under the License
+ is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or 
+implied. See the License for the specific language governing permissions and limitations under the
+ License. 
+-->
+<PROJECT>
+<SYSTEM>
+<NAME>Project1.rap_prj</NAME>
+<DIS>1</DIS>
+<TEX>0</TEX>
+<REF>0</REF>
+<EXP>0</EXP>
+<EPS>0</EPS>
+<PROJ_INTEGRITY>1</PROJ_INTEGRITY>
+<GENERATE_CLOUD>1</GENERATE_CLOUD>
+<MATERIAL_TYPE>0</MATERIAL_TYPE>
+<PROJECT_TYPE>1</PROJECT_TYPE>
+<DNO>1</DNO>
+<Ratio>0</Ratio>
+</SYSTEM>
+<SCENE>
+<PATH>C:/Users/Nguyen_An/Downloads/controller_5/v5/</PATH>
+<DATA/>
+</SCENE>
+</PROJECT>
